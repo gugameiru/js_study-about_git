@@ -10,4 +10,4 @@ var myVar = 10;
 let agePerson = 20;
 }
 
-
+console.log('Learning GIT');
