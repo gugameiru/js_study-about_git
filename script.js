@@ -11,3 +11,4 @@ let agePerson = 20;
 }
 
 console.log('Learning GIT');
+console.log(myVar);
